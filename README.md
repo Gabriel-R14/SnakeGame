@@ -1,8 +1,8 @@
-## SnakeGame
+# SnakeGame
 
 O famoso jogo da cobrinha
 
-# Libs utilizadas:
+## Libs utilizadas:
 
 - Random
 - PyGame
